@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=79E2D2&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Verne+Chen+%F0%9F%91%8B;A+Solo+Builder+%26+Explorer;At+the+Intersection+of+AI+%2B+Web3" alt="Hi there, I'm Verne Chen" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&duration=4000&pause=1000&color=79E2D2&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Verne+Chen+%F0%9F%91%8B;A+Solo+Builder+%26+Explorer;The+Convergence+of+AI+%C3%97+Web3" alt="Hi there, I'm Verne Chen" />
 </p>
 
 <p align="center">
