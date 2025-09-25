@@ -20,8 +20,8 @@
 ### ✨ Project Spotlight
 <p align="center">
   <a href="https://github.com/PeterFile/Mycelium-Protocol" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PeterFile&repo=Mycelium-Protocol&theme=tokyonight&hide_border=true&title_color=79E2D2&icon_color=79E2D2" alt="Project 1"></a>
-  <a href="https://github.com/Mycel-Link/mycelium-platform" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mycel-Link&repo=mycelium-platform&theme=tokyonight&hide_border=true&title_color=79E2D2&icon_color=79E2D2" alt="Project 2"></a>
-</p>
+  <!-- <a href="https://github.com/Mycel-Link/mycelium-platform" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mycel-Link&repo=mycelium-platform&theme=tokyonight&hide_border=true&title_color=79E2D2&icon_color=79E2D2" alt="Project 2"></a>
+</p> -->
 
 <table align="center" width="100%">
   <tr>
